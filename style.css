@@ -1,0 +1,42 @@
+body{
+    font-family: 'Palette Mosaic', cursive;
+}
+.bg-color {
+	background-color: #fff9f4;
+}
+.top-hight {
+	height: 700px;
+}
+.top-fonts {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.feedback-width {
+	width: 45%;
+}
+.border-red {
+	border: 0;
+}
+.costome-color {
+	color: rgb(46, 52, 122);
+}
+.bg-contact{
+    background-color:rgb(46, 52, 122);
+}
+.title-color {
+	color: rgba(250, 128, 76, 1);
+}
+.offer-color{
+   background:#ffcc29;
+}
+.off-color{
+    color:#d83121;
+}
+
+.off-2-color{
+    color:#c34a36;
+}
+.custom-width{
+    width:75%;
+}
